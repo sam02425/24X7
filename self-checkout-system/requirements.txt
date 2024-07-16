@@ -1,0 +1,6 @@
+numpy
+opencv-python
+PyYAML
+Flask
+kafka-python
+pytest
